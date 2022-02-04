@@ -7,7 +7,8 @@ Repositório criado para o desafio com o propósito de aplicar os conhecimentos 
 - git clone: para clonar o repositório local;
 - git status: para ver o status que esta;
 - git add *: para atualizar o projeto;
-- git commit: para subir o projeto no servidor do GitHub
+- git commit: para comitar o repositório;
+- git origin main: para subir o repositório local ao servidor do GITHUB.
 
 # Aplicação AluraMidi
 
