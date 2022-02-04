@@ -8,7 +8,7 @@ Repositório criado para o desafio com o propósito de aplicar os conhecimentos 
 - git status: para ver o status que esta;
 - git add *: para atualizar o projeto;
 - git commit: para comitar o repositório;
-- git origin main: para subir o repositório local ao servidor do GITHUB.
+- git push origin main: para subir o repositório local ao servidor do GITHUB.
 
 # Aplicação AluraMidi
 
